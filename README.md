@@ -1,4 +1,4 @@
-# Setup TFLint Action
+# Setup TFLint Actions
 
 A GitHub action that installs a Terraform linter [TFLint](https://github.com/terraform-linters/tflint) executable in the PATH.
 
